@@ -5,6 +5,7 @@ User opens the application's main URL or clicks the "Home" link/button.
 Working:
 The framework's routing system detects the home page request.
 Home.jsx is loaded and rendered, displaying the homepage content (e.g., hero section, featured jobs, latest job openings etc..).
+
 2. Jobs.jsx:
 
 Opening:
@@ -12,6 +13,7 @@ User clicks the "Jobs" link/button or navigates to the jobs page URL.
 Working:
 The routing system detects the jobs page request.
 Jobs.jsx is loaded and rendered, displaying a list of available jobs, filters, search functionality, and job details.
+
 3. Login.jsx:
 
 Opening:
@@ -22,6 +24,7 @@ Login.jsx is loaded and rendered, displaying a login form with fields for userna
 User enters credentials and submits the form.
 The form data is sent to the backend for authentication.
 Upon successful authentication, the user is redirected to the dashboard or another appropriate page.
+
 4. Signup.jsx:
 
 Opening:
